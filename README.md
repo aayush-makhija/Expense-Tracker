@@ -1,5 +1,3 @@
-
-
 ---
 
 # Expense Tracker
@@ -15,15 +13,14 @@ This is a simple expense tracker application built in Go. It allows users to add
 
 ## Usage
 
-1. Clone the repository.
-2. Run the main program by executing `go run main.go`.
-3. Follow the on-screen prompts to perform desired actions.
-4. Optionally, customize and expand the functionality as needed.
+1. Ensure you have Go installed on your system. If not, you can download and install it from the [official Go website](https://golang.org/dl/).
+2. Clone the repository.
+3. Run the main program by executing `go run main.go`.
+4. Follow the on-screen prompts to perform desired actions.
+5. Optionally, customize and expand the functionality as needed.
 
 ## Contributing
 
 Feel free to fork the repository and submit pull requests with any improvements or bug fixes. Your contributions are welcome!
 
 ---
-
-
